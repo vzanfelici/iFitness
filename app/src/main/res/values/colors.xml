@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundSplash">#AFE3DC</color>
+    <color name="colorPrimary">#3DCCBD</color>
+    <color name="colorPrimaryDark">#088073</color>
+    <color name="colorAccent">#00FFE4</color>
+    <color name="gray">@android:color/darker_gray</color>
+    <color name="colorTitle">#FF0000</color>
+    <color name="colorBackground">#DCF9F5</color>
+</resources>

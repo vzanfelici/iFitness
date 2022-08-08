@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">iFitness - IFSP</string>
+    <string name="menu_drawer_home">Home</string>
+    <string name="menu_drawer_minha_conta">Minha Conta</string>
+    <string name="menu_drawer_atividades">Histórico de Atividades</string>
+    <string name="menu_drawer_sair">Sair</string>
+    <string name="toogle_open">open</string>
+    <string name="toogle_close">close</string>
+    <string name="usuario_cadastro_nome">Nome</string>
+    <string name="usuario_cadastro_email">Email</string>
+    <string name="usuario_cadastro_senha">Senha</string>
+    <string name="usuario_cadastro_cadastrar">Cadastrar</string>
+    <string name="usuario_cadastro_titulo">Cadastro de Usuário</string>
+    <string name="usuario_login_entrar">Entrar</string>
+    <string name="usuario_login_esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="usuario_login_nao_cadastro">Não tem cadastro?</string>
+    <string name="usuario_login_cadastre_se_aqui">CADASTRAR</string>
+    <string name="usuario_login_titulo">Login de Usuário</string>
+    <string name="usuario_perfil_atualizar">ATUALIZAR</string>
+    <string name="usuario_perfil_cep">CEP</string>
+    <string name="usuario_perfil_cidade">Cidade</string>
+    <string name="usuario_perfil_complemento">Complemento</string>
+    <string name="usuario_perfil_numero">Número</string>
+    <string name="usuario_perfil_logradouro">Logradouro (Avenida, Rua, ...)</string>
+    <string name="usuario_perfil_endereco">Endereco</string>
+    <string name="usuario_perfil_sobrenome">Sobrenome</string>
+    <string name="usuario_perfil_titulo">Perfil do Usuário</string>
+    <string name="produto_detalhe_calorias">Calorias (em gramas)</string>
+    <string name="produto_detalhe_data">Data de Realização</string>
+    <string name="produto_detalhe_tempo">Tempo (em minutos)</string>
+    <string name="produto_detalhe_distancia">Distância (em quilômetros)</string>
+    <string name="usuario_cadastro_cep">CEP</string>
+    <string name="usuario_cadastro_cidade">Cidade</string>
+    <string name="usuario_cadastro_bairro">Bairro</string>
+    <string name="usuario_cadastro_complemento">Complemento</string>
+    <string name="menu_drawer_settings">Configurações</string>
+    <string name="settings_titulo">Configurações</string>
+    <string name="msg_login">Email e Senha inválidos!</string>
+    <string name="msg_perfil_sucesso">Dados atualizados com sucesso!</string>
+    <string name="msg_erro_senha">A senha deve ter 6 ou mais caracteres.</string>
+    <string name="menu_drawer_ranking">Ranking</string>
+    <string name="menu_drawer_stats">Estatisticas do Usuário</string>
+    <string name="menu_statistic">Estatistica</string>
+    <string name="menu_ranking">Ranking</string>
+    <string name="usuario_cadastro_peso">Peso</string>
+
+    <!-- array com os nomes da Unidades Federativas do Brasil -->
+    <string-array name="generos">
+        <item>-selecione-</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Prefiro não Informar</item>
+    </string-array>
+</resources>
